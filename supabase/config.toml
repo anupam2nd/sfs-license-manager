@@ -1,0 +1,4 @@
+project_id = "hmejmxkmcougbjzidqnp"
+
+[functions.check-license-expiry]
+verify_jwt = false
